@@ -1,0 +1,54 @@
+flask
+transformers
+torch
+scikit-learn
+pandas
+accelerate
+transformers[torch]
+torchvision 
+torchaudio
+Flasgger
+flask-cors
+Pillow
+pytesseract
+
+
+
+ """
+    Train the model with the provided data
+    ---
+    tags:
+      - Training
+    parameters:
+      - name: body
+        in: body
+        required: true
+        description: JSON object containing training data
+        schema:
+          type: object
+          properties:
+            training_data:
+              type: array
+              items:
+                type: object
+                properties:
+                  text:
+                    type: string
+                    example: "Sample training text"
+                  label:
+                    type: string
+                    example: "Label for the text"
+    responses:
+      200:
+        description: Training completed successfully
+        schema:
+          type: object
+          properties:
+            message:
+              type: string
+              example: "Training completed successfully."
+      400:
+        description: Invalid input data
+      500:
+        description: Internal server error
+    """
