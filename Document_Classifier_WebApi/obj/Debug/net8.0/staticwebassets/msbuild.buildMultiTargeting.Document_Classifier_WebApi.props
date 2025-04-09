@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Document_Classifier_WebApi.props" />
+</Project>
