@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+torchvision 
+torchaudio
+Flasgger
+flask-cors
+Pillow
+pytesseract
+flask
+joblib
+numpy
