@@ -1,0 +1,64 @@
+2025-05-09 08:36:16,674 - INFO - Performing OCR on the provided image file
+2025-05-09 08:36:17,165 - INFO - 127.0.0.1 - - [09/May/2025 08:36:17] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:36:41,739 - INFO - Performing OCR on the provided image file
+2025-05-09 08:36:42,089 - INFO - 127.0.0.1 - - [09/May/2025 08:36:42] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:37:26,754 - INFO - Performing OCR on the provided image file
+2025-05-09 08:37:27,002 - INFO - 127.0.0.1 - - [09/May/2025 08:37:27] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:39:11,755 - INFO - Performing OCR on the provided image file
+2025-05-09 08:39:11,994 - INFO - 127.0.0.1 - - [09/May/2025 08:39:11] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:41:57,446 - INFO - Performing OCR on the provided image file
+2025-05-09 08:41:57,740 - INFO - 127.0.0.1 - - [09/May/2025 08:41:57] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:02,456 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:02,648 - INFO - 127.0.0.1 - - [09/May/2025 08:42:02] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:04,620 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:04,812 - INFO - 127.0.0.1 - - [09/May/2025 08:42:04] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:06,482 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:06,708 - INFO - 127.0.0.1 - - [09/May/2025 08:42:06] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:08,283 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:08,472 - INFO - 127.0.0.1 - - [09/May/2025 08:42:08] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:10,313 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:10,506 - INFO - 127.0.0.1 - - [09/May/2025 08:42:10] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:12,581 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:12,785 - INFO - 127.0.0.1 - - [09/May/2025 08:42:12] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 08:42:15,164 - INFO - Performing OCR on the provided image file
+2025-05-09 08:42:15,342 - INFO - 127.0.0.1 - - [09/May/2025 08:42:15] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 09:12:23,746 - INFO - Performing OCR on the provided image file
+2025-05-09 09:12:24,073 - INFO - 127.0.0.1 - - [09/May/2025 09:12:24] "POST /ocr HTTP/1.1" 200 -
+2025-05-09 09:12:29,094 - INFO - Performing OCR on the provided image file
+2025-05-09 09:12:29,257 - INFO - 127.0.0.1 - - [09/May/2025 09:12:29] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:36,853 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:37,397 - INFO - 127.0.0.1 - - [11/May/2025 09:06:37] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:41,630 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:41,845 - INFO - 127.0.0.1 - - [11/May/2025 09:06:41] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:44,428 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:44,624 - INFO - 127.0.0.1 - - [11/May/2025 09:06:44] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:46,155 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:46,358 - INFO - 127.0.0.1 - - [11/May/2025 09:06:46] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:47,702 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:47,896 - INFO - 127.0.0.1 - - [11/May/2025 09:06:47] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:49,440 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:49,635 - INFO - 127.0.0.1 - - [11/May/2025 09:06:49] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:51,329 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:51,532 - INFO - 127.0.0.1 - - [11/May/2025 09:06:51] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 09:06:52,903 - INFO - Performing OCR on the provided image file
+2025-05-11 09:06:53,104 - INFO - 127.0.0.1 - - [11/May/2025 09:06:53] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:37,765 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:38,231 - INFO - 127.0.0.1 - - [11/May/2025 22:40:38] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:41,850 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:42,103 - INFO - 127.0.0.1 - - [11/May/2025 22:40:42] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:44,460 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:44,669 - INFO - 127.0.0.1 - - [11/May/2025 22:40:44] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:46,446 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:46,640 - INFO - 127.0.0.1 - - [11/May/2025 22:40:46] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:48,686 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:48,880 - INFO - 127.0.0.1 - - [11/May/2025 22:40:48] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:51,208 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:51,402 - INFO - 127.0.0.1 - - [11/May/2025 22:40:51] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:53,446 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:53,634 - INFO - 127.0.0.1 - - [11/May/2025 22:40:53] "POST /ocr HTTP/1.1" 200 -
+2025-05-11 22:40:55,854 - INFO - Performing OCR on the provided image file
+2025-05-11 22:40:56,048 - INFO - 127.0.0.1 - - [11/May/2025 22:40:56] "POST /ocr HTTP/1.1" 200 -
+2025-05-12 09:40:34,856 - INFO - Performing OCR on the provided image file
+2025-05-12 09:40:35,361 - INFO - 127.0.0.1 - - [12/May/2025 09:40:35] "POST /ocr HTTP/1.1" 200 -
+2025-05-12 09:42:04,134 - INFO - Performing OCR on the provided image file
+2025-05-12 09:42:04,316 - INFO - 127.0.0.1 - - [12/May/2025 09:42:04] "POST /ocr HTTP/1.1" 200 -
